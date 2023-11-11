@@ -6,7 +6,7 @@ todo is tool that helps in organizing, priotizing your day to day task instead o
 #Starting the application in windows
 -------------------------------------
 1. Download the content as zip and extract it to some folder.
-2. Double click on todo-palei-start.bat
+2. Open Command Prompt and go to the folder then type "todo-palei-start.bat" and hit enter.
 3. open the http://localhost:8080 in any browser.  
 
 
