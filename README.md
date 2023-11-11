@@ -13,7 +13,7 @@ todo is tool that helps in organizing, priotizing your day to day task instead o
 #Stopping the application in windows
 ------------------------------------
 1. Open Command prompt and run the following command.
-	jps -l | find "todo-palei-start.jar"
+	jps -l | find "todo-palei.jar"
 2. Note the PID from the above command as YOURPID.
 3. taskkill /F /PID YOURPID
 
