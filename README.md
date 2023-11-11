@@ -14,7 +14,7 @@ todo is tool that helps in organizing, priotizing your day to day task instead o
 ------------------------------------
 1. Open Command prompt and run the following command.
 	jps -l | find "todo-palei-start.jar"
-2. Note the <PID> from the above command.
-3. taskkill /F /PID <PID>
+2. Note the PID from the above command as YOURPID.
+3. taskkill /F /PID YOURPID
 
 
